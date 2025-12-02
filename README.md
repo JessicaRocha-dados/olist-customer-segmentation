@@ -73,7 +73,7 @@ Visualização da identidade de cada grupo. Note como o **VIP (Amarelo)** expand
 ### 2. Fronteiras de Decisão (Scatter Plot)
 A distribuição real dos clientes considerando Recência (Tempo) vs Monetário (Dinheiro).
 
-![Scatter Plot](images/grafico_dispersao.jpg)
+![Scatter Plot](images/grafico_dispersao.png)
 
 
 ## 💡 Personas e Estratégia Sugerida
